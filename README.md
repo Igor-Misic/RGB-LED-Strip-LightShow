@@ -5,5 +5,5 @@ Electronic schema is here:
 
 
 lightshow in action:
-[![](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=fRF_z4JCFXo)
+[![]()](https://www.youtube.com/watch?v=fRF_z4JCFXo)
 
