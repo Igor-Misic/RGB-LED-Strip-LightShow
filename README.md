@@ -1,6 +1,9 @@
 This is code for Arduino. 
-For volume meter used electronic schema from here:
-http://www.instructables.com/id/Arduino-VU-meter-1/
+Electronic schema is here:
+
+![](https://lh3.googleusercontent.com/C1MxVSIUHmNomI4mpiPm5t4Acia2oX49jUITd7sRp6tYAeDCBJ81coLwPRmwMKUdLrgNYgF-exoTow4wdFu5x6ljE6c1aYAFbHtQgnVKBTl6WWzCMNKu-XdjhWCsquhA9_xWxdB0ozjhDvDNizPVZ8KA9dnGBwu9jP3AweyIJ4n_tu2knJAfXdtKb1uxDJ77hvegbWhMWS6jtTQUd-8pAJS47eq6dkgdoU8TbwE2CT49LfSE-sGEtMK00TYa2DcpAFU4GBcN18X006T1p26LE20gx8pqC_GGZt4UmSfM1aDrBX55kawhtNJZ5_WxuZWJ3K0JmOeJ_YYheUZU-eAHITLuAv5t4-156LNDOwxZdj4rJrP-iEWsEPyF0skSM-GDHnGwwnErms0so3YPJdgC7F9AG0pdaniIjKbxNIVJa55WXJW42xyGt2FRpNBoOtIdZ9faDnb5DosGDF6d6Z1HPU2sK4U_KZYDvQpFVi-Ir2CPCXMn8SHJEyEC86IysFaI-M4sDPmGU7aMlgCmSVN3Y1K97Omx2K1DR2UTAE2zysR3ktU1gFPZt-Y21NimT3Lg_pDGZtiskHq3A66mpabNKqnQ8o_Vqj2jmJ8eenGFpEJUMbL7i-JSBciyx9yqeg03c-92zt8dC8_LRNGr2k3Z_oZ6p55Q-glesJMLffGhAYdmDKBSisybwZc=w883-h533-no)
+
 
 lightshow in action:
-https://www.youtube.com/watch?v=fRF_z4JCFXo
+[![](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=fRF_z4JCFXo)
+
